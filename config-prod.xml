@@ -1,9 +1,4 @@
-server:
- port: 8081
- 
-spring: 
- application:
-   name:config-prod
+
 
 config:
    info: prod45678
