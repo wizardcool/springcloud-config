@@ -4,4 +4,8 @@ server:
 spring:
   application:
     name: config-test
+    
+config:
+  info: test098765
+    
   
